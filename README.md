@@ -31,7 +31,7 @@ We offer some samples here for you to know Wild-Beyond better.
 
 -[Sample 3]()
 
-*More data will coming soon, you can also email [wbythink@163.com](wbythink@163.com)
+*More data will coming soon! For more information, you can email [wbythink@163.com](wbythink@163.com) with the title "Wild-Beyond Access Request".
 
 
 
