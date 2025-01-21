@@ -28,7 +28,7 @@ Wild -Beyond indicates 33.3 per cent of paved sences and 66.7 per cent off-road 
 
 ### Point cloud
 The construction of the corresponding grid map was achieved by integrating the collected LiDAR point cloud data with GPS positioning and IMU combined navigation data. The ground semantics were annotated on the grid map.
-![Annotations of point cloud]()
+![Annotations of point cloud](images/语义标注.png)
 
 ## Data Sample
 We offer some samples here for you to know Wild-Beyond better.
