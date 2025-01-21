@@ -31,6 +31,8 @@ We offer some samples here for you to know Wild-Beyond better.
 
 -[Sample 3]()
 
+*For more data, please contact us 
+
 
 
 
