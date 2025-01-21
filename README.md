@@ -23,6 +23,8 @@ Wild -Beyond indicates 33.3 per cent of paved sences and 66.7 per cent off-road 
 
 The setup and detection range of each sensor. 
 
+![sensor setup]()
+
 ## Annotations
 ### Image
 The semantic annotation of images is achieved by SAM.
