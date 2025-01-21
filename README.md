@@ -23,9 +23,9 @@ Wild -Beyond indicates 33.3 per cent of paved sences and 66.7 per cent off-road 
 
 ## Annotations
 ### Image
-The semantic annotation of images is achieved by SAM
+The semantic annotation of images is achieved by SAM.
 
-![Annotations of images](imges/)
+![Annotations of images](imges/github1.png)
 
 ### Point cloud
 The construction of the corresponding grid map was achieved by integrating the collected LiDAR point cloud data with GPS positioning and IMU combined navigation data. The ground semantics were annotated on the grid map.
