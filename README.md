@@ -21,6 +21,14 @@ Wild -Beyond indicates 33.3 per cent of paved sences and 66.7 per cent off-road 
 
 -An XW-GI7660 fibre-optic combined navigation system collects information about the vehicle's location, direction and speed from the satellite positioning system, and its position and movement information from the inertial navigation system. The heading accuracy is 0.05°(single-antenna dynamic alignment), 0.1°(low-dynamic dual-antenna assistance), 0.04°(post-processing,1σ); the attitude accuracy is 0.02° (real-time, 1σ), 0 .0 (post-processing 1σ); the positional accuracy is single-point positioning ≤1.2m (RMS), RTK2cm+1ppm (RMS), and the velocity accuracy is 0.02m/s (carrier speed is less than 500m/s).
 
+## Annotations
+### Image
+
+![Annotations of images]()
+
+### Point cloud
+The construction of the corresponding grid map was achieved by integrating the collected LiDAR point cloud data with GPS positioning and IMU combined navigation data. The ground semantics were annotated on the grid map.
+![Annotations of point cloud]()
 
 ## Data Sample
 We offer some samples here for you to know Wild-Beyond better.
