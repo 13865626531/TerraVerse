@@ -6,6 +6,8 @@ Wild -Beyond indicates 33.3 per cent of paved sences and 66.7 per cent off-road 
 ![Example Image](images/introduction.png "These are example images of Wild-Beyond")
 
 ## Recording Platform
+![Data collection car](images/car.png "Recording Platform")
+
 [Jeep Wrangle](https://www.jeep.com/wrangler.html "The official website of Jeep Wrangle")
 
 ## Sensor Setup
