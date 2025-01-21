@@ -6,5 +6,4 @@
 
 ## Sensor Setup
 
-## Dataset Discription
-
+## Data Sample
