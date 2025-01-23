@@ -1,4 +1,4 @@
-# Wild_Beyond: A Multi-Modal and Multi-Sence Dataset For Ground Semantic Understanding
+# TerraVerse:A Multimodal Sensor Dataset for Unstructured Scenes Spanning Multiple Regions in China
 ## Overview
 
 ## Dataset Discription
