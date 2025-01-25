@@ -43,7 +43,7 @@ The construction of the corresponding grid map was achieved by integrating the c
 ![Annotations of point cloud](images/语义标注3.png)
 
 ## Data Sample
-We offer some samples here for you to know Wild-Beyond better.
+We offer some samples here for you to know TerraVerse better.
 
 -[Sample 1]()
 
