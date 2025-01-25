@@ -50,7 +50,7 @@ We offer some samples here for you to know Wild-Beyond better.
 -[Sample 2]()
 
 
-*More data will coming soon! For more information, you can email [wbythink@163.com](wbythink@163.com) with the title "Wild-Beyond Access Request".
+*More data will coming soon! For more information, you can email [wbythink@163.com](wbythink@163.com) with the title "TerraVerse Access Request".
 
 
 
