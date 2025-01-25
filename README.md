@@ -22,7 +22,7 @@ TerraVerse indicates 33.3 per cent of paved sences and 66.7 per cent off-road sc
 
 The setup and detection range of each sensor. 
 
-![sensor setup](images/sensor.png)
+  ![sensor setup](images/sensor.png)
 
 ## Annotations
 ### Image
