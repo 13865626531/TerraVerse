@@ -1,7 +1,7 @@
 # TerraVerse:A Multimodal Sensor Dataset for Unstructured Scenes Spanning Multiple Regions in China
 
 ## Overview
-[The video when we colloct data](https://github.com/user-attachments/assets/b6c32ef2-46b6-4b5c-9623-6aee372bf521)
+()
 
 
 ## Dataset Discription
