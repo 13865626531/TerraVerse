@@ -19,7 +19,7 @@
 [Jeep Wrangle](https://www.jeep.com/wrangler.html "The official website of Jeep Wrangle")
 
 ## Sensor Setup
--Three *RS-M1* solid-state LiDARs are utilised to collect point cloud information within a 360° field of view around the vehicle, thereby enhancing the density of the point cloud. The scanning frequency is set at 10 Hz, while the horizontal field of view spans 120°, and the horizontal angular resolution is set at 0.2°. The vertical field of view is 25°, and the vertical angular resolution is also set at 0.2°. The maximum detection distance is 200 m.
+-Three *RS-M1* solid-state LiDARs are utilised to collect point cloud information. 
 
 -A Velodyne *HDL-32E* LiDAR was utilised to acquire point cloud data over a 360° range of the vehicle. 
 
