@@ -1,6 +1,6 @@
 # TerraVerse: A Multimodal Sensor Dataset for Unstructured Scenes Spanning Multiple Regions in China
 
-**This work was jointly completed by **Beijing University of Technology** and **Beijing University**.
+**This work was jointly completed by **Beijing Institute of Technology** and **Beijing University**.
 
 ## Overview
 
