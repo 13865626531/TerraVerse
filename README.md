@@ -33,7 +33,9 @@
 
 The setup and detection range of each sensor:
 
-![sensor setup](images/sensor.png)
+<div align=center>
+<img src="images/sensor.png"/>
+</div>
 
 ## Annotations
 ### Image
