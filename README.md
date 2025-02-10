@@ -19,15 +19,15 @@
 [Jeep Wrangle](https://www.jeep.com/wrangler.html "The official website of Jeep Wrangle")
 
 ## Sensor Setup
--Three *RS-M1* solid-state LiDARs are utilised to collect point cloud information. 
+-Three [RS-M1](https://www.robosense.ai/rslidar/RS-LiDAR-M1) solid-state LiDARs are utilised to collect point cloud information. 
 
--A Velodyne *HDL-32E* LiDAR was utilised to acquire point cloud data over a 360° range of the vehicle. 
+-A Velodyne [HDL-32E](https://pdf.directindustry.com/pdf/velodynelidar/hdl-32e-datasheet/182407-676098.html) LiDAR was utilised to acquire point cloud data over a 360° range of the vehicle. 
 
--A Ladybug *LD5P-U3-51S5C-R/B* panoramic camera for capturing image information over a 360° range of the vehicle. 
+-A Ladybug [LD5P-U3-51S5C-R/B](https://www.teledynevisionsolutions.com/zh-cn/products/ladybug5plus/?model=LD5P-U3-51S5C-B&vertical=machine%20vision&segment=iis) panoramic camera for capturing image information over a 360° range of the vehicle. 
 
--The *MER2-231-41GC-P* industrial camera has been utilised to facilitate the direct acquisition of image information in the frontal perspective of the wheeled platform. 
+-The [MER2-231-41GC-P](https://www.daheng-imaging.com/show-104-1900-1.html) industrial camera has been utilised to facilitate the direct acquisition of image information in the frontal perspective of the wheeled platform. 
 
--An *XW-GI7660* fibre-optic combined navigation system collects information about the vehicle's location, direction and speed from the satellite positioning system, and its position and movement information from the inertial navigation system. 
+-An [XW-GI7660](https://www.starneto.com/chanpin_view/498.html) fibre-optic combined navigation system collects information about the vehicle's location, direction and speed from the satellite positioning system, and its position and movement information from the inertial navigation system. 
 
 The setup and detection range of each sensor:
 
