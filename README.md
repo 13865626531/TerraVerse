@@ -49,7 +49,7 @@ The semantic annotation of images is achieved by SAM.
 
 ![Structure]()
 
-Samples can be downloaded here:
+*Samples can be downloaded here:
 
 -[Sample 1]()
 
