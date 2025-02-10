@@ -52,25 +52,124 @@ The semantic annotation of images is achieved by SAM.
 We offer some samples here for you to know TerraVerse better. The sample files we uploaded encompass raw images, LIDAR data, and some annotated examples. The image data is in "png" format, while the point cloud data from the laser radar is in "pcap" format. We have annotated both the objects and semantics. The structure of the sample files is illustrated in the figure below:
 
 ```
-Sample.
+Sample
+│
 ├─rawdata
 │  ├─image
+│  │      1602313407553149.png
+│  │      1602313407619700.png
+│  │      1602313407686391.png
+│  │      ...
+│  │      1602313407819785.png
+│  │      1602313407886490.png
+│  │      1602313407953181.png
+│  │
 │  └─lidar
+│          Raw-001-HDL32.pcap
+│
 ├─semantic annotation
-│  ├─grid_map_annotation
+│  ├─grid-map-annotation
 │  │  ├─gridmap
 │  │  │  ├─annotation
+│  │  │  │      54208152.png
+│  │  │  │      54208819.png
+│  │  │  │      54209484.png
+│  │  │  │      54210151.png
+│  │  │  │      54210817.png
+│  │  │  │      54211483.png
+│  │  │  │      54212150.png
+│  │  │  │      54212817.png
+│  │  │  │      54213484.png
+│  │  │  │      54214151.png
+│  │  │  │
 │  │  │  └─background
+│  │  │          54208152_background.png
+│  │  │          54208819_background.png
+│  │  │          54209484_background.png
+│  │  │          54210151_background.png
+│  │  │          54210817_background.png
+│  │  │          54211483_background.png
+│  │  │          54212150_background.png
+│  │  │          54212817_background.png
+│  │  │          54213484_background.png
+│  │  │          54214151_background.png
+│  │  │
 │  │  ├─projection
 │  │  │  ├─ladybug camera
+│  │  │  │      54208152_cam.png
+│  │  │  │      54208152_cam_raw.png
+│  │  │  │      54208819_cam.png
+│  │  │  │      54208819_cam_raw.png
+│  │  │  │      54209484_cam.png
+│  │  │  │      54209484_cam_raw.png
+│  │  │  │      54210151_cam.png
+│  │  │  │      54210151_cam_raw.png
+│  │  │  │      54210817_cam.png
+│  │  │  │      54210817_cam_raw.png
+│  │  │  │      54211483_cam.png
+│  │  │  │      54211483_cam_raw.png
+│  │  │  │      54212150_cam.png
+│  │  │  │      54212150_cam_raw.png
+│  │  │  │      54212817_cam.png
+│  │  │  │      54212817_cam_raw.png
+│  │  │  │      54213484_cam.png
+│  │  │  │      54213484_cam_raw.png
+│  │  │  │      54214151_cam.png
+│  │  │  │      54214151_cam_raw.png
+│  │  │  │
 │  │  │  └─mono camera
+│  │  │          54208152_pro.png
+│  │  │          54208819_pro.png
+│  │  │          54209484_pro.png
+│  │  │          54210151_pro.png
+│  │  │          54210817_pro.png
+│  │  │          54211483_pro.png
+│  │  │          54212150_pro.png
+│  │  │          54212817_pro.png
+│  │  │          54213484_pro.png
+│  │  │          54214151_pro.png
+│  │  │
 │  │  └─result_csv
-│  └─image annotation
+│  │          54208152.csv
+│  │          54208819.csv
+│  │          54209484.csv
+│  │          54210151.csv
+│  │          54210817.csv
+│  │          54211483.csv
+│  │          54212150.csv
+│  │          54212817.csv
+│  │          54213484.csv
+│  │          54214151.csv
+│  │          label_map.csv
+│  │
+│  └─image-annotation
 │      ├─jason
 │      └─png
 └─target labeling
-    ├─labeled_image
+    ├─labeled-image
+    │      1602313408152146.png
+    │      1602313408819041.png
+    │      1602313409484210.png
+    │      1602313410151251.png
+    │      1602313410817466.png
+    │      1602313411483703.png
+    │      1602313412150355.png
+    │      1602313412817889.png
+    │      1602313413484648.png
+    │      1602313414151219.png
+    │
     └─result_txt
+            1602313408152146.txt
+            1602313408819041.txt
+            1602313409484210.txt
+            1602313410151251.txt
+            1602313410817466.txt
+            1602313411483703.txt
+            1602313412150355.txt
+            1602313412817889.txt
+            1602313413484648.txt
+            1602313414151219.txt
+            class_list.txt
 ```
 ***Samples can be downloaded here:**
 
