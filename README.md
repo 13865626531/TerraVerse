@@ -49,9 +49,27 @@ The semantic annotation of images is achieved by SAM.
 ![Annotations of point cloud](images/语义标注3.png)
 
 ## Data Sample
-  We offer some samples here for you to know TerraVerse better. The sample files we uploaded encompass raw images, LIDAR data, and some annotated examples. The image data is in "png" format, while the point cloud data from the laser radar is in "pcap" format. We have annotated both the objects and semantics. The structure of the sample files is illustrated in the figure below:
+We offer some samples here for you to know TerraVerse better. The sample files we uploaded encompass raw images, LIDAR data, and some annotated examples. The image data is in "png" format, while the point cloud data from the laser radar is in "pcap" format. We have annotated both the objects and semantics. The structure of the sample files is illustrated in the figure below:
 
-![Structure]()
+Sample.
+├─rawdata
+│  ├─image
+│  └─lidar
+├─semantic annotation
+│  ├─grid_map_annotation
+│  │  ├─gridmap
+│  │  │  ├─annotation
+│  │  │  └─background
+│  │  ├─projection
+│  │  │  ├─ladybug camera
+│  │  │  └─mono camera
+│  │  └─result_csv
+│  └─image annotation
+│      ├─jason
+│      └─png
+└─target labeling
+    ├─labeled_image
+    └─result_txt
 
 ***Samples can be downloaded here:**
 
