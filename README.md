@@ -18,7 +18,9 @@
 
 Our data collection was performed using a [Jeep Wrangle](https://www.jeep.com/wrangler.html "The official website of Jeep Wrangle").
 
-The sensers used are introduced below:
+
+**The sensers used are introduced below:**
+
 -Three [RS-M1](https://www.robosense.ai/rslidar/RS-LiDAR-M1) solid-state LiDARs are utilised to collect point cloud information. 
 
 -A Velodyne [HDL-32E](https://pdf.directindustry.com/pdf/velodynelidar/hdl-32e-datasheet/182407-676098.html) LiDAR was utilised to acquire point cloud data over a 360° range of the vehicle. 
