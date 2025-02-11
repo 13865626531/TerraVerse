@@ -16,11 +16,10 @@
 
 ## Recording Platform
 
-![Data collection car](images/car.png "Recording Platform")
 
 [Jeep Wrangle](https://www.jeep.com/wrangler.html "The official website of Jeep Wrangle")
 
-## Sensor Setup
+The sensers used are introduced below:
 -Three [RS-M1](https://www.robosense.ai/rslidar/RS-LiDAR-M1) solid-state LiDARs are utilised to collect point cloud information. 
 
 -A Velodyne [HDL-32E](https://pdf.directindustry.com/pdf/velodynelidar/hdl-32e-datasheet/182407-676098.html) LiDAR was utilised to acquire point cloud data over a 360° range of the vehicle. 
@@ -31,11 +30,19 @@
 
 -An [XW-GI7660](https://www.starneto.com/chanpin_view/498.html) fibre-optic combined navigation system collects information about the vehicle's location, direction and speed from the satellite positioning system, and its position and movement information from the inertial navigation system. 
 
-The setup and detection range of each sensor:
+The left image is the recording platform and the right one shows the setup and detection range of each sensor:
 
-<div align=center>
-<img src="images/sensor.png"/>
-</div>
+<table>
+  <tr>
+    <td>
+      <img src="https://example.com/image1.jpg" alt="Recording platform" height="300">
+    </td>
+    <td>
+      <img src="images/sensor.png" alt="Setup" height="300">
+    </td>
+  </tr>
+</table>
+
 
 ## Annotations
 ### Image
