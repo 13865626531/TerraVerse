@@ -16,8 +16,7 @@
 
 ## Recording Platform
 
-
-[Jeep Wrangle](https://www.jeep.com/wrangler.html "The official website of Jeep Wrangle")
+Our data collection was performed using a [Jeep Wrangle](https://www.jeep.com/wrangler.html "The official website of Jeep Wrangle").
 
 The sensers used are introduced below:
 -Three [RS-M1](https://www.robosense.ai/rslidar/RS-LiDAR-M1) solid-state LiDARs are utilised to collect point cloud information. 
@@ -35,7 +34,7 @@ The left image is the recording platform and the right one shows the setup and d
 <table>
   <tr>
     <td>
-      <img src="https://example.com/image1.jpg" alt="Recording platform" height="250">
+      <img src="images/车.png" alt="Recording platform" height="250">
     </td>
     <td>
       <img src="images/sensor.png" alt="Setup" height="250">
