@@ -47,15 +47,15 @@ The left image is the recording platform and the right one shows the setup and d
 
 ## Annotations
 
-We have annotated both targets and semantics, including 15 independent target classes and 7 semantic categories. The proportions of each category are shown in the figure below.
+We have annotated both targets and semantics, including 15 independent target classes and 7 terrain semantic categories. The proportions of each category are shown in the figure below.
 
 <table>
   <tr>
     <td>
-      <img src="images/github1.png" alt="semantic annotation" height="250">
+      <img src="images/目标图片1.png" height="250">
     </td>
     <td>
-      <img src="images/sensor.png" alt="Setup" height="250">
+      <img src="images/地形比例图片1.png" height="250">
     </td>
   </tr>
 </table>
