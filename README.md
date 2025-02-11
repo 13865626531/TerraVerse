@@ -11,7 +11,7 @@
   TerraVerse indicates 33.3 per cent of paved sences and 66.7 per cent off-road scenes. The dataset is divided into 26 different categories with the aim of analysing the impact of time of day, weather conditions, and terrain environments on performance, including scenarios such as night-time city, daytime desert, and evening beach.The primary terrain encompasses seven categories: desert, beach, gravel, paved, water, snow, and grass. In addition, the dataset encompasses fifteen types of targets including car, people, traffic sign, ship, etc. The size format of the recorded image files is 1024 x 768 pixels. Also TerraVerse contains synchronised vehicle underlay and point cloud data, at night we also use infrared camera for data acquisition work, these multimodal data will help to advance the development of driverless technology.
 
 <div align=center>
-<img src="images/introduction.png" height="400"/>
+  <img src="images/introduction.png" height="400"/>
 </div>
 
 ## Recording Platform
@@ -36,10 +36,10 @@ The left image is the recording platform and the right one shows the setup and d
 <table>
   <tr>
     <td>
-      <img src="images/车.png" alt="Recording platform" height="250">
+      <img src="images/车.png" alt="Recording platform" height="200">
     </td>
     <td>
-      <img src="images/sensor.png" alt="Setup" height="250">
+      <img src="images/sensor.png" alt="Setup" height="200">
     </td>
   </tr>
 </table>
@@ -52,10 +52,10 @@ We have annotated both targets and semantics, including 15 independent target cl
 <table>
   <tr>
     <td>
-      <img src="images/目标图片1.png" height="250">
+      <img src="images/目标图片1.png" height="200">
     </td>
     <td>
-      <img src="images/地形比例图片1.png" height="250">
+      <img src="images/地形比例图片1.png" height="200">
     </td>
   </tr>
 </table>
@@ -63,16 +63,9 @@ We have annotated both targets and semantics, including 15 independent target cl
 ### Target labelling
 TerraVerse database 15 distinct categories of objects, including car, people, and ship, among others. Each category has been meticulously annotated to ensure precision and clarity. We used Open_Labeling to annotate the image targets, and the annotation results were in YOLO format.
 
-<table>
-  <tr>
-    <td>
-      <img src="images/github1.png" alt="semantic annotation" height="250">
-    </td>
-    <td>
-      <img src="images/sensor.png" alt="Setup" height="250">
-    </td>
-  </tr>
-</table>
+<div align=center>
+  <img src="images/github2.png" height="200"/>
+</div>
 
 ![Annotations of images](images/github1.png)
 
