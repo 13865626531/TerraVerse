@@ -46,10 +46,36 @@ The left image is the recording platform and the right one shows the setup and d
 
 
 ## Annotations
-### Image
-The semantic annotation of images is achieved by SAM.
+
+We have annotated both targets and semantics, including 15 independent target classes and 7 semantic categories. The proportions of each category are shown in the figure below.
+
+<table>
+  <tr>
+    <td>
+      <img src="images/github1.png" alt="semantic annotation" height="250">
+    </td>
+    <td>
+      <img src="images/sensor.png" alt="Setup" height="250">
+    </td>
+  </tr>
+</table>
+
+### Target labelling
+TerraVerse database 15 distinct categories of objects, including car, people, and ship, among others. Each category has been meticulously annotated to ensure precision and clarity. We used Open_Labeling to annotate the image targets, and the annotation results were in YOLO format.
+
+<table>
+  <tr>
+    <td>
+      <img src="images/github1.png" alt="semantic annotation" height="250">
+    </td>
+    <td>
+      <img src="images/sensor.png" alt="Setup" height="250">
+    </td>
+  </tr>
+</table>
 
 ![Annotations of images](images/github1.png)
+
 
 ### Point cloud
   The construction of the corresponding grid map was achieved by integrating the collected LiDAR point cloud data with GPS positioning and IMU combined navigation data. The ground semantics were annotated on the grid map.
