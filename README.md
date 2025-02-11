@@ -64,7 +64,7 @@ We have annotated both targets and semantics, including 15 independent target cl
 TerraVerse database 15 distinct categories of objects, including car, people, and ship, among others. Each category has been meticulously annotated to ensure precision and clarity. We used Open_Labeling to annotate the image targets, and the annotation results were in YOLO format.
 
 <div align=center>
-  <img src="images/github2.png" height="200"/>
+  <img src="images/github2.png" height="150"/>
 </div>
 
 ![Annotations of images](images/github1.png)
