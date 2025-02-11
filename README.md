@@ -156,7 +156,7 @@ Sample
 -[Sample 2]()
 
 
-*More data will coming soon! For more information, you can email [wbythink@163.com](wbythink@163.com) with the title "TerraVerse Access Request".
+*More data will coming soon! For more information, you can email [boyang_wang@bit.edu.cn](boyang_wang@bit.edu.cn) with the title "TerraVerse Access Request".
 
 
 
