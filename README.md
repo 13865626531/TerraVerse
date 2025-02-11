@@ -35,10 +35,10 @@ The left image is the recording platform and the right one shows the setup and d
 <table>
   <tr>
     <td>
-      <img src="https://example.com/image1.jpg" alt="Recording platform" height="300">
+      <img src="https://example.com/image1.jpg" alt="Recording platform" height="250">
     </td>
     <td>
-      <img src="images/sensor.png" alt="Setup" height="300">
+      <img src="images/sensor.png" alt="Setup" height="250">
     </td>
   </tr>
 </table>
