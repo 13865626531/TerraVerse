@@ -46,7 +46,7 @@ The semantic annotation of images is achieved by SAM.
 ### Point cloud
   The construction of the corresponding grid map was achieved by integrating the collected LiDAR point cloud data with GPS positioning and IMU combined navigation data. The ground semantics were annotated on the grid map.
 
-![Annotations of point cloud](images/语义标注3.png)
+![Annotations of point cloud](images/语义标注2（1）.png)
 
 ## Data Sample
 We offer some samples here for you to know TerraVerse better. The sample files we uploaded encompass raw images, LIDAR data, and some annotated examples. The image data is in "png" format, while the point cloud data from the laser radar is in "pcap" format. We have annotated both the objects and semantics. The structure of the sample files is illustrated in the figure below:
