@@ -154,17 +154,17 @@ Sample
 
 **Google Drive:** 
 
-<pre>
 -[Sample 1]()
   
 -[Sample 2]()  
-</pre>
+
 
 **Baidu Pan:**
 
 -[Sample 1]()
 
 -[Sample 2]()
+
 
 *More data will coming soon! For more information, you can email [boyang_wang@bit.edu.cn](boyang_wang@bit.edu.cn) with the title "TerraVerse Access Request".
 
