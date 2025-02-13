@@ -84,70 +84,24 @@ We offer some samples here for you to know TerraVerse better. The sample files w
 ```
 Sample
 ├─rawdata
-│  ├─image
-│  │      1602313407553149.png
-│  │      1602313407619700.png
-│  │      ...
-│  │
-│  └─lidar
-│          Raw-001-HDL32.pcap
-│
+│  ├─image(.png)
+│  └─lidar(.pcap)
 ├─semantic annotation
 │  ├─grid_map_annotation
 │  │  ├─gridmap
-│  │  │  ├─annotation
-│  │  │  │      54208152.png
-│  │  │  │      54208819.png
-│  │  │  │      ...
-│  │  │  │
-│  │  │  └─background
-│  │  │          54208152_background.png
-│  │  │          54208819_background.png
-│  │  │          ...
-│  │  │
+│  │  │  ├─annotation(.png)
+│  │  │  └─background(.png)
 │  │  ├─projection
-│  │  │  ├─ladybug camera
-│  │  │  │      54208152_cam.png
-│  │  │  │      54208152_cam_raw.png
-│  │  │  │      54208819_cam.png
-│  │  │  │      54208819_cam_raw.png
-│  │  │  │     ...
-│  │  │  │
-│  │  │  └─mono camera
-│  │  │          54208152_pro.png
-│  │  │          54208819_pro.png
-│  │  │          ...
-│  │  │
-│  │  └─result_csv
-│  │          54208152.csv
-│  │          54208819.csv
-│  │          ...
-│  │          label_map.csv
-│  │
+│  │  │  ├─ladybug camera(.png)
+│  │  │  └─mono camera(.png)
+│  │  └─result_csv(.csv)
 │  └─image_annotation
 │      │  classesition.txt
-│      │
-│      ├─json
-│      │      1602313408152146.json
-│      │      1602313408819041.json
-│      │      ...
-│      │
-│      └─png
-│              1602313408152146.png
-│              1602313408819041.png
-│              ...
-│
+│      ├─json(.json)
+│      └─png(.png)
 └─target labeling
-    ├─labeled-image
-    │      1602313408152146.png
-    │      1602313408819041.png
-    │      ...
-    │
-    └─result_txt
-            1602313408152146.txt
-            1602313408819041.txt
-            ...
-            class_list.txt
+    ├─labeled-image(.png)
+    └─result_txt(.txt)
   ```
 
 ***Samples can be downloaded here:**
